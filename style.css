@@ -1,0 +1,16 @@
+body{
+    text-align: center; 
+  } 
+  #firstp{
+    word-spacing: 10px;
+    font-variant: small-caps;
+    text-align: center; 
+    font-size: 80px;
+  } 
+  #reasontext{ 
+    font-size:50px; 
+  } 
+  img { 
+    border-style:solid;
+    border-color:#689F38 border 1px border-radius 80px; 
+  }
